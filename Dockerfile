@@ -1,4 +1,4 @@
-FROM sanji/jenkins-swarm-slave
+FROM sanji/jenkins-swarm-slave:1.22-jdk7
 
 MAINTAINER Zack CF Yang <zackcf.yang@moxa.com>
 
